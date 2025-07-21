@@ -3,7 +3,7 @@ I’m a 3rd-year BSCpE student at Mapúa Malayan Colleges Mindanao, passionate a
 
 My interests span from application development to understanding how computers work at the circuit and network level. I’m eager to continue learning and growing in the field.
 
-##🚀 What I'm up to
+## 🚀 What I'm up to
 
 :telescope:I’m currently working on
 Focusing on my studies—especially core BSCpE subjects.
