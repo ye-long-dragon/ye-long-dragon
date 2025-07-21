@@ -1,5 +1,27 @@
 # 💫 About Me:
-I’m a 3rd-year BSCpE student at Mapúa Malayan Colleges Mindanao, passionate about both software development and the hardware side of computing. I’ve developed projects using C#, C++, Python, Java, and full-stack web technologies including HTML, CSS, JavaScript, EJS, MongoDB, Express, Node.js, and Microsoft SQL.<br><br>My interests span from application development to understanding how computers work at the circuit and network level. I’m eager to continue learning and growing in the field.<br><br>I’m currently working on<br>Focusing on my studies—especially core BSCpE subjects.<br><br>I’m looking to collaborate on<br>Projects soon, especially in the areas of networks, embedded systems, or web development.<br><br>I’m looking for help with<br>Mentorship in software engineering and computer engineering career paths.<br><br>I’m currently learning<br>Computer networks and cybersecurity fundamentals.<br><br>Ask me about<br>Electrical and electronic circuits from the BSCpE curriculum.<br><br>Fun fact<br>I’m very interested in computer networks, cybersecurity, semiconductors, and microprocessors.<br><br>
+I’m a 3rd-year BSCpE student at Mapúa Malayan Colleges Mindanao, passionate about both software development and the hardware side of computing. I’ve developed projects using C#, C++, Python, Java, and full-stack web technologies including HTML, CSS, JavaScript, EJS, MongoDB, Express, Node.js, and Microsoft SQL.
+
+My interests span from application development to understanding how computers work at the circuit and network level. I’m eager to continue learning and growing in the field.
+
+##🚀 What I'm up to
+
+:telescope:I’m currently working on
+Focusing on my studies—especially core BSCpE subjects.
+
+🤝I’m looking to collaborate on
+Projects soon, especially in the areas of networks, embedded systems, or web development.
+
+🧠I’m looking for help with
+Mentorship in software engineering and computer engineering career paths.
+
+:seedling:I’m currently learning
+Computer networks and cybersecurity fundamentals.
+
+💬Ask me about
+Electrical and electronic circuits from the BSCpE curriculum.
+
+⚡Fun fact
+I’m very interested in computer networks, cybersecurity, semiconductors, and microprocessors.<br><br>
 
 
 ## 🌐 Socials:
